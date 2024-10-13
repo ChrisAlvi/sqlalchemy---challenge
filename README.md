@@ -1,2 +1,1 @@
-# sqlalchemy---challenge
-sqlalchemy homeowork 
+# sqlalchemy-challenge
