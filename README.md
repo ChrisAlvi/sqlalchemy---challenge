@@ -1,1 +1,4 @@
 # sqlalchemy-challenge
+
+For this challenge, I used SQLAlchemy along with various functions to analyze and explore climate data for my vacation in Hawaii. I worked with two CSV files containing station and measurement data, using SQLAlchemy to query insights I was curious about before booking my trip. I then utilized Pandas to create data frames and visualizations, making it easier to identify trends and plan my trip accordingly. 
+In the second part of the challenge, I used Flask to set up a server. By combining Flask with SQLAlchemy, I built an API application that ran queries on the CSV files located in the Resources folder. I created routes and their corresponding functions to successfully return data to the client side. To ensure compatibility, I used the `jsonify` function to convert the extracted data into proper JSON objects.
